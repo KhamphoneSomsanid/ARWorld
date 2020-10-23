@@ -1,0 +1,703 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6405D43921EDC74D00B4CBDE /* GoodUIViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6405D43721EDC74D00B4CBDE /* GoodUIViewCell.xib */; };
+		6405D43A21EDC74D00B4CBDE /* GoodUIViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6405D43821EDC74D00B4CBDE /* GoodUIViewCell.swift */; };
+		643E0D3521FF191E0001AAEF /* GetCrystalModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643E0D3421FF191E0001AAEF /* GetCrystalModalView.swift */; };
+		643E0D3721FF19350001AAEF /* GetCrystalModalView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 643E0D3621FF19350001AAEF /* GetCrystalModalView.xib */; };
+		643E0D3921FF1E970001AAEF /* ExtensionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643E0D3821FF1E970001AAEF /* ExtensionUI.swift */; };
+		6444FC8E220056B300932847 /* LevelInfoUIViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6444FC8D220056B300932847 /* LevelInfoUIViewCell.swift */; };
+		6444FC90220056C800932847 /* LevelInfoUIViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6444FC8F220056C800932847 /* LevelInfoUIViewCell.xib */; };
+		6444FC92220067C200932847 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6444FC91220067C200932847 /* Assets.xcassets */; };
+		645485CD221AF49000351FC9 /* texture.tif in Resources */ = {isa = PBXBuildFile; fileRef = 645485CB221AF49000351FC9 /* texture.tif */; };
+		645485CF221AF51300351FC9 /* Ground3DModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645485CE221AF51300351FC9 /* Ground3DModel.swift */; };
+		645AE95A221BFFDD00D14316 /* GameSuccessModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645AE959221BFFDD00D14316 /* GameSuccessModalView.swift */; };
+		645AE95C221BFFED00D14316 /* GameSuccessModalView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 645AE95B221BFFED00D14316 /* GameSuccessModalView.xib */; };
+		645AE95E221C06C800D14316 /* GameFailedModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 645AE95D221C06C800D14316 /* GameFailedModalView.swift */; };
+		645AE960221C06D300D14316 /* GameFailedModalView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 645AE95F221C06D300D14316 /* GameFailedModalView.xib */; };
+		6463005421EFAB2500506307 /* UpdateWeaponViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6463005321EFAB2500506307 /* UpdateWeaponViewController.swift */; };
+		6463005621EFB77900506307 /* GetWeaponViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6463005521EFB77900506307 /* GetWeaponViewController.swift */; };
+		647B356421EE7AFA008D9340 /* Gun3DModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647B356321EE7AFA008D9340 /* Gun3DModel.swift */; };
+		647B356621EEEB92008D9340 /* ManInfoSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647B356521EEEB92008D9340 /* ManInfoSceneViewController.swift */; };
+		647B357321EF04F8008D9340 /* Human3DModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647B357221EF04F8008D9340 /* Human3DModel.swift */; };
+		64932936221A93D900E24362 /* attact.scnp in Resources */ = {isa = PBXBuildFile; fileRef = 64932934221A93D900E24362 /* attact.scnp */; };
+		64932937221A93D900E24362 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = 64932935221A93D900E24362 /* spark.png */; };
+		64932939221A98F300E24362 /* Sphere.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64932938221A98F300E24362 /* Sphere.swift */; };
+		64A1257421BA8FC800DF7186 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A1257321BA8FC800DF7186 /* AppDelegate.swift */; };
+		64A1257921BA8FC800DF7186 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64A1257721BA8FC800DF7186 /* Main.storyboard */; };
+		64A1257E21BA8FDB00DF7186 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64A1257C21BA8FDB00DF7186 /* LaunchScreen.storyboard */; };
+		64A1258D21BAB27E00DF7186 /* libc++abi.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 64A1258C21BAB27D00DF7186 /* libc++abi.tbd */; };
+		64A1259721BACE7200DF7186 /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A1259621BACE7200DF7186 /* Global.swift */; };
+		64B800B321F26EB300EF062A /* WeaponNameUIViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B800B221F26EB300EF062A /* WeaponNameUIViewCell.swift */; };
+		64B800B521F26ED800EF062A /* WeaponNameUIViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64B800B421F26ED800EF062A /* WeaponNameUIViewCell.xib */; };
+		64BA1C162253613A00062C72 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA1C152253613A00062C72 /* CheckBox.swift */; };
+		64BA1C18225366CA00062C72 /* HistoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BA1C17225366CA00062C72 /* HistoryTableViewCell.swift */; };
+		64BA1C1A225366E600062C72 /* HistoryTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64BA1C19225366E600062C72 /* HistoryTableViewCell.xib */; };
+		64C723F7221CACC8007B4DB6 /* GetTreasureModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C723F6221CACC8007B4DB6 /* GetTreasureModalView.swift */; };
+		64C723F9221CACD4007B4DB6 /* GetTreasureModalView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64C723F8221CACD4007B4DB6 /* GetTreasureModalView.xib */; };
+		64C723FB221CB68B007B4DB6 /* GetAddressModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64C723FA221CB68B007B4DB6 /* GetAddressModalView.swift */; };
+		64C723FD221CB698007B4DB6 /* GetAddressModalView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 64C723FC221CB698007B4DB6 /* GetAddressModalView.xib */; };
+		64D5FFA521F737C7001C439E /* human.dae in Resources */ = {isa = PBXBuildFile; fileRef = 64D5FFA321F737C7001C439E /* human.dae */; };
+		64D5FFA621F737C7001C439E /* t_leet.png in Resources */ = {isa = PBXBuildFile; fileRef = 64D5FFA421F737C7001C439E /* t_leet.png */; };
+		64F7A3202219435500273649 /* GameSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F7A31F2219435500273649 /* GameSceneViewController.swift */; };
+		64FAF7A5227E647A004B9FB1 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64FAF7A4227E647A004B9FB1 /* StoreKit.framework */; };
+		64FAF7A7227E6A5A004B9FB1 /* IAPHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FAF7A6227E6A5A004B9FB1 /* IAPHelper.swift */; };
+		64FAF7A9227E6B19004B9FB1 /* ARworldProducts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FAF7A8227E6B19004B9FB1 /* ARworldProducts.swift */; };
+		66926E7D21C349E80041D8F8 /* WeChatResponseHandller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66926E7C21C349E80041D8F8 /* WeChatResponseHandller.swift */; };
+		66B9C13621C25AF6005FAB16 /* LevelSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B9C13521C25AF6005FAB16 /* LevelSceneViewController.swift */; };
+		66D0A00421C0A39E00814B63 /* MainSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D09FFE21C0A39E00814B63 /* MainSceneViewController.swift */; };
+		66D0A00521C0A39E00814B63 /* PreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D09FFF21C0A39E00814B63 /* PreviewViewController.swift */; };
+		66D0A00621C0A39E00814B63 /* ProfileSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D0A00021C0A39E00814B63 /* ProfileSceneViewController.swift */; };
+		66D0A00721C0A39E00814B63 /* SettingSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D0A00121C0A39E00814B63 /* SettingSceneViewController.swift */; };
+		66D0A00821C0A39E00814B63 /* ShopSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D0A00221C0A39E00814B63 /* ShopSceneViewController.swift */; };
+		66D0A00921C0A39E00814B63 /* StartSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D0A00321C0A39E00814B63 /* StartSceneViewController.swift */; };
+		66D5013121C415A7004B097B /* DragonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D5012E21C415A7004B097B /* DragonModel.swift */; };
+		734BCD009F075F847C1823D7 /* Pods_ARWorld.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F501520D74B8A760CB2C1B24 /* Pods_ARWorld.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		45CC09D8D2779D75DD20392B /* Pods-ARWorld.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARWorld.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARWorld/Pods-ARWorld.debug.xcconfig"; sourceTree = "<group>"; };
+		6405D43721EDC74D00B4CBDE /* GoodUIViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GoodUIViewCell.xib; sourceTree = "<group>"; };
+		6405D43821EDC74D00B4CBDE /* GoodUIViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GoodUIViewCell.swift; sourceTree = "<group>"; };
+		643E0D3421FF191E0001AAEF /* GetCrystalModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetCrystalModalView.swift; sourceTree = "<group>"; };
+		643E0D3621FF19350001AAEF /* GetCrystalModalView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GetCrystalModalView.xib; sourceTree = "<group>"; };
+		643E0D3821FF1E970001AAEF /* ExtensionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionUI.swift; sourceTree = "<group>"; };
+		6444FC8D220056B300932847 /* LevelInfoUIViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelInfoUIViewCell.swift; sourceTree = "<group>"; };
+		6444FC8F220056C800932847 /* LevelInfoUIViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LevelInfoUIViewCell.xib; sourceTree = "<group>"; };
+		6444FC91220067C200932847 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		645485CB221AF49000351FC9 /* texture.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = texture.tif; sourceTree = "<group>"; };
+		645485CE221AF51300351FC9 /* Ground3DModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ground3DModel.swift; sourceTree = "<group>"; };
+		645AE959221BFFDD00D14316 /* GameSuccessModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSuccessModalView.swift; sourceTree = "<group>"; };
+		645AE95B221BFFED00D14316 /* GameSuccessModalView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GameSuccessModalView.xib; sourceTree = "<group>"; };
+		645AE95D221C06C800D14316 /* GameFailedModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameFailedModalView.swift; sourceTree = "<group>"; };
+		645AE95F221C06D300D14316 /* GameFailedModalView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GameFailedModalView.xib; sourceTree = "<group>"; };
+		645E9891224B033300FA9717 /* ground.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = ground.scn; sourceTree = "<group>"; };
+		6463005321EFAB2500506307 /* UpdateWeaponViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateWeaponViewController.swift; sourceTree = "<group>"; };
+		6463005521EFB77900506307 /* GetWeaponViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetWeaponViewController.swift; sourceTree = "<group>"; };
+		647B356321EE7AFA008D9340 /* Gun3DModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gun3DModel.swift; sourceTree = "<group>"; };
+		647B356521EEEB92008D9340 /* ManInfoSceneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManInfoSceneViewController.swift; sourceTree = "<group>"; };
+		647B357221EF04F8008D9340 /* Human3DModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Human3DModel.swift; sourceTree = "<group>"; };
+		64932934221A93D900E24362 /* attact.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = attact.scnp; sourceTree = "<group>"; };
+		64932935221A93D900E24362 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		64932938221A98F300E24362 /* Sphere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sphere.swift; sourceTree = "<group>"; };
+		64A1257021BA8FC700DF7186 /* ARWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		64A1257321BA8FC800DF7186 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		64A1257821BA8FC800DF7186 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		64A1257D21BA8FDB00DF7186 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		64A1257F21BA8FDB00DF7186 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64A1258C21BAB27D00DF7186 /* libc++abi.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++abi.tbd"; path = "usr/lib/libc++abi.tbd"; sourceTree = SDKROOT; };
+		64A1259621BACE7200DF7186 /* Global.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Global.swift; sourceTree = "<group>"; };
+		64B2C6742271565600A9D642 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		64B800B221F26EB300EF062A /* WeaponNameUIViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeaponNameUIViewCell.swift; sourceTree = "<group>"; };
+		64B800B421F26ED800EF062A /* WeaponNameUIViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WeaponNameUIViewCell.xib; sourceTree = "<group>"; };
+		64BA1C152253613A00062C72 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
+		64BA1C17225366CA00062C72 /* HistoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryTableViewCell.swift; sourceTree = "<group>"; };
+		64BA1C19225366E600062C72 /* HistoryTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HistoryTableViewCell.xib; sourceTree = "<group>"; };
+		64BF9E152260106E00EFD859 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		64BF9E162260107000EFD859 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		64BF9E172260108600EFD859 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		64BF9E182260108700EFD859 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		64BF9E192260109400EFD859 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		64BF9E1A2260109500EFD859 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		64C723F6221CACC8007B4DB6 /* GetTreasureModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetTreasureModalView.swift; sourceTree = "<group>"; };
+		64C723F8221CACD4007B4DB6 /* GetTreasureModalView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GetTreasureModalView.xib; sourceTree = "<group>"; };
+		64C723FA221CB68B007B4DB6 /* GetAddressModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetAddressModalView.swift; sourceTree = "<group>"; };
+		64C723FC221CB698007B4DB6 /* GetAddressModalView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GetAddressModalView.xib; sourceTree = "<group>"; };
+		64D5FFA321F737C7001C439E /* human.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; path = human.dae; sourceTree = "<group>"; };
+		64D5FFA421F737C7001C439E /* t_leet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = t_leet.png; sourceTree = "<group>"; };
+		64F7A31F2219435500273649 /* GameSceneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameSceneViewController.swift; sourceTree = "<group>"; };
+		64FAF7A4227E647A004B9FB1 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		64FAF7A6227E6A5A004B9FB1 /* IAPHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IAPHelper.swift; sourceTree = "<group>"; };
+		64FAF7A8227E6B19004B9FB1 /* ARworldProducts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARworldProducts.swift; sourceTree = "<group>"; };
+		66926E7B21C32C1D0041D8F8 /* ARWorld-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ARWorld-Bridging-Header.h"; sourceTree = "<group>"; };
+		66926E7C21C349E80041D8F8 /* WeChatResponseHandller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeChatResponseHandller.swift; sourceTree = "<group>"; };
+		66B9C13521C25AF6005FAB16 /* LevelSceneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelSceneViewController.swift; sourceTree = "<group>"; };
+		66D09FFE21C0A39E00814B63 /* MainSceneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainSceneViewController.swift; sourceTree = "<group>"; };
+		66D09FFF21C0A39E00814B63 /* PreviewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreviewViewController.swift; sourceTree = "<group>"; };
+		66D0A00021C0A39E00814B63 /* ProfileSceneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileSceneViewController.swift; sourceTree = "<group>"; };
+		66D0A00121C0A39E00814B63 /* SettingSceneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingSceneViewController.swift; sourceTree = "<group>"; };
+		66D0A00221C0A39E00814B63 /* ShopSceneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopSceneViewController.swift; sourceTree = "<group>"; };
+		66D0A00321C0A39E00814B63 /* StartSceneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartSceneViewController.swift; sourceTree = "<group>"; };
+		66D5012E21C415A7004B097B /* DragonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragonModel.swift; sourceTree = "<group>"; };
+		705E4B7E38B66B6853335145 /* Pods-ARWorld.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARWorld.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARWorld/Pods-ARWorld.release.xcconfig"; sourceTree = "<group>"; };
+		F501520D74B8A760CB2C1B24 /* Pods_ARWorld.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ARWorld.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		64A1256D21BA8FC700DF7186 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64FAF7A5227E647A004B9FB1 /* StoreKit.framework in Frameworks */,
+				64A1258D21BAB27E00DF7186 /* libc++abi.tbd in Frameworks */,
+				734BCD009F075F847C1823D7 /* Pods_ARWorld.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		643E0D3321FF18F40001AAEF /* Modals */ = {
+			isa = PBXGroup;
+			children = (
+				643E0D3421FF191E0001AAEF /* GetCrystalModalView.swift */,
+				643E0D3621FF19350001AAEF /* GetCrystalModalView.xib */,
+				645AE959221BFFDD00D14316 /* GameSuccessModalView.swift */,
+				645AE95B221BFFED00D14316 /* GameSuccessModalView.xib */,
+				645AE95D221C06C800D14316 /* GameFailedModalView.swift */,
+				645AE95F221C06D300D14316 /* GameFailedModalView.xib */,
+				64C723F6221CACC8007B4DB6 /* GetTreasureModalView.swift */,
+				64C723F8221CACD4007B4DB6 /* GetTreasureModalView.xib */,
+				64C723FA221CB68B007B4DB6 /* GetAddressModalView.swift */,
+				64C723FC221CB698007B4DB6 /* GetAddressModalView.xib */,
+				64FAF7A8227E6B19004B9FB1 /* ARworldProducts.swift */,
+			);
+			path = Modals;
+			sourceTree = "<group>";
+		};
+		645485C9221AF46B00351FC9 /* Ground */ = {
+			isa = PBXGroup;
+			children = (
+				645E9891224B033300FA9717 /* ground.scn */,
+				645485CB221AF49000351FC9 /* texture.tif */,
+			);
+			path = Ground;
+			sourceTree = "<group>";
+		};
+		647B356721EEFC35008D9340 /* Man */ = {
+			isa = PBXGroup;
+			children = (
+				64D5FFA321F737C7001C439E /* human.dae */,
+				64D5FFA421F737C7001C439E /* t_leet.png */,
+			);
+			path = Man;
+			sourceTree = "<group>";
+		};
+		64932933221A93A600E24362 /* Particle */ = {
+			isa = PBXGroup;
+			children = (
+				64932934221A93D900E24362 /* attact.scnp */,
+				64932935221A93D900E24362 /* spark.png */,
+			);
+			path = Particle;
+			sourceTree = "<group>";
+		};
+		64A1256721BA8FC700DF7186 = {
+			isa = PBXGroup;
+			children = (
+				64A1257221BA8FC700DF7186 /* ARWorld */,
+				64A1257121BA8FC700DF7186 /* Products */,
+				A3CB45B2359D05365FE291A6 /* Pods */,
+				B3B5B49F0E3EEA595634C1B4 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		64A1257121BA8FC700DF7186 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				64A1257021BA8FC700DF7186 /* ARWorld.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		64A1257221BA8FC700DF7186 /* ARWorld */ = {
+			isa = PBXGroup;
+			children = (
+				643E0D3321FF18F40001AAEF /* Modals */,
+				64B800B121F24BCC00EF062A /* Models */,
+				66D09FFD21C0A39E00814B63 /* Scenes */,
+				64A1259521BACE5800DF7186 /* Common */,
+				64A1259021BABF0100DF7186 /* Cells */,
+				64A1257321BA8FC800DF7186 /* AppDelegate.swift */,
+				66926E7B21C32C1D0041D8F8 /* ARWorld-Bridging-Header.h */,
+				64A1257721BA8FC800DF7186 /* Main.storyboard */,
+				64A1257C21BA8FDB00DF7186 /* LaunchScreen.storyboard */,
+				6444FC91220067C200932847 /* Assets.xcassets */,
+				64A1257F21BA8FDB00DF7186 /* Info.plist */,
+			);
+			path = ARWorld;
+			sourceTree = "<group>";
+		};
+		64A1259021BABF0100DF7186 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				6405D43821EDC74D00B4CBDE /* GoodUIViewCell.swift */,
+				6405D43721EDC74D00B4CBDE /* GoodUIViewCell.xib */,
+				64B800B221F26EB300EF062A /* WeaponNameUIViewCell.swift */,
+				64B800B421F26ED800EF062A /* WeaponNameUIViewCell.xib */,
+				6444FC8D220056B300932847 /* LevelInfoUIViewCell.swift */,
+				6444FC8F220056C800932847 /* LevelInfoUIViewCell.xib */,
+				64BA1C152253613A00062C72 /* CheckBox.swift */,
+				64BA1C17225366CA00062C72 /* HistoryTableViewCell.swift */,
+				64BA1C19225366E600062C72 /* HistoryTableViewCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		64A1259521BACE5800DF7186 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				64A1259621BACE7200DF7186 /* Global.swift */,
+				64FAF7A6227E6A5A004B9FB1 /* IAPHelper.swift */,
+				66926E7C21C349E80041D8F8 /* WeChatResponseHandller.swift */,
+				66D5012E21C415A7004B097B /* DragonModel.swift */,
+				647B356321EE7AFA008D9340 /* Gun3DModel.swift */,
+				647B357221EF04F8008D9340 /* Human3DModel.swift */,
+				643E0D3821FF1E970001AAEF /* ExtensionUI.swift */,
+				64932938221A98F300E24362 /* Sphere.swift */,
+				645485CE221AF51300351FC9 /* Ground3DModel.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		64B800B121F24BCC00EF062A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				645485C9221AF46B00351FC9 /* Ground */,
+				64932933221A93A600E24362 /* Particle */,
+				647B356721EEFC35008D9340 /* Man */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		66D09FFD21C0A39E00814B63 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				64F7A31F2219435500273649 /* GameSceneViewController.swift */,
+				66D09FFE21C0A39E00814B63 /* MainSceneViewController.swift */,
+				66D09FFF21C0A39E00814B63 /* PreviewViewController.swift */,
+				66D0A00021C0A39E00814B63 /* ProfileSceneViewController.swift */,
+				66D0A00121C0A39E00814B63 /* SettingSceneViewController.swift */,
+				66D0A00221C0A39E00814B63 /* ShopSceneViewController.swift */,
+				66D0A00321C0A39E00814B63 /* StartSceneViewController.swift */,
+				66B9C13521C25AF6005FAB16 /* LevelSceneViewController.swift */,
+				647B356521EEEB92008D9340 /* ManInfoSceneViewController.swift */,
+				6463005321EFAB2500506307 /* UpdateWeaponViewController.swift */,
+				6463005521EFB77900506307 /* GetWeaponViewController.swift */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		A3CB45B2359D05365FE291A6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				45CC09D8D2779D75DD20392B /* Pods-ARWorld.debug.xcconfig */,
+				705E4B7E38B66B6853335145 /* Pods-ARWorld.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		B3B5B49F0E3EEA595634C1B4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				64FAF7A4227E647A004B9FB1 /* StoreKit.framework */,
+				64A1258C21BAB27D00DF7186 /* libc++abi.tbd */,
+				F501520D74B8A760CB2C1B24 /* Pods_ARWorld.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		64A1256F21BA8FC700DF7186 /* ARWorld */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64A1258221BA8FDB00DF7186 /* Build configuration list for PBXNativeTarget "ARWorld" */;
+			buildPhases = (
+				19251711EC4BF42AE099BF57 /* [CP] Check Pods Manifest.lock */,
+				64A1256C21BA8FC700DF7186 /* Sources */,
+				64A1256D21BA8FC700DF7186 /* Frameworks */,
+				64A1256E21BA8FC700DF7186 /* Resources */,
+				3DE1E2F8085EAD82A3FBD9ED /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ARWorld;
+			productName = ARWorld;
+			productReference = 64A1257021BA8FC700DF7186 /* ARWorld.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		64A1256821BA8FC700DF7186 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0940;
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = JinYingZhe;
+				TargetAttributes = {
+					64A1256F21BA8FC700DF7186 = {
+						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1010;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 64A1256B21BA8FC700DF7186 /* Build configuration list for PBXProject "ARWorld" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 64A1256721BA8FC700DF7186;
+			productRefGroup = 64A1257121BA8FC700DF7186 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				64A1256F21BA8FC700DF7186 /* ARWorld */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		64A1256E21BA8FC700DF7186 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				64932937221A93D900E24362 /* spark.png in Resources */,
+				645485CD221AF49000351FC9 /* texture.tif in Resources */,
+				645AE960221C06D300D14316 /* GameFailedModalView.xib in Resources */,
+				643E0D3721FF19350001AAEF /* GetCrystalModalView.xib in Resources */,
+				64BA1C1A225366E600062C72 /* HistoryTableViewCell.xib in Resources */,
+				64C723FD221CB698007B4DB6 /* GetAddressModalView.xib in Resources */,
+				6405D43921EDC74D00B4CBDE /* GoodUIViewCell.xib in Resources */,
+				64D5FFA521F737C7001C439E /* human.dae in Resources */,
+				645AE95C221BFFED00D14316 /* GameSuccessModalView.xib in Resources */,
+				64D5FFA621F737C7001C439E /* t_leet.png in Resources */,
+				6444FC92220067C200932847 /* Assets.xcassets in Resources */,
+				64A1257E21BA8FDB00DF7186 /* LaunchScreen.storyboard in Resources */,
+				64A1257921BA8FC800DF7186 /* Main.storyboard in Resources */,
+				64C723F9221CACD4007B4DB6 /* GetTreasureModalView.xib in Resources */,
+				64B800B521F26ED800EF062A /* WeaponNameUIViewCell.xib in Resources */,
+				64932936221A93D900E24362 /* attact.scnp in Resources */,
+				6444FC90220056C800932847 /* LevelInfoUIViewCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		19251711EC4BF42AE099BF57 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ARWorld-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3DE1E2F8085EAD82A3FBD9ED /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ARWorld/Pods-ARWorld-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/JGProgressHUD/JGProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/SSZipArchive/SSZipArchive.framework",
+				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyXMLParser/SwiftyXMLParser.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JGProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SSZipArchive.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyXMLParser.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ARWorld/Pods-ARWorld-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		64A1256C21BA8FC700DF7186 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				645AE95A221BFFDD00D14316 /* GameSuccessModalView.swift in Sources */,
+				66D0A00921C0A39E00814B63 /* StartSceneViewController.swift in Sources */,
+				6463005621EFB77900506307 /* GetWeaponViewController.swift in Sources */,
+				643E0D3521FF191E0001AAEF /* GetCrystalModalView.swift in Sources */,
+				64932939221A98F300E24362 /* Sphere.swift in Sources */,
+				64F7A3202219435500273649 /* GameSceneViewController.swift in Sources */,
+				64C723F7221CACC8007B4DB6 /* GetTreasureModalView.swift in Sources */,
+				645485CF221AF51300351FC9 /* Ground3DModel.swift in Sources */,
+				66926E7D21C349E80041D8F8 /* WeChatResponseHandller.swift in Sources */,
+				66D0A00621C0A39E00814B63 /* ProfileSceneViewController.swift in Sources */,
+				66D0A00821C0A39E00814B63 /* ShopSceneViewController.swift in Sources */,
+				66D0A00421C0A39E00814B63 /* MainSceneViewController.swift in Sources */,
+				64A1257421BA8FC800DF7186 /* AppDelegate.swift in Sources */,
+				66D5013121C415A7004B097B /* DragonModel.swift in Sources */,
+				64BA1C162253613A00062C72 /* CheckBox.swift in Sources */,
+				647B356621EEEB92008D9340 /* ManInfoSceneViewController.swift in Sources */,
+				64FAF7A7227E6A5A004B9FB1 /* IAPHelper.swift in Sources */,
+				6444FC8E220056B300932847 /* LevelInfoUIViewCell.swift in Sources */,
+				6405D43A21EDC74D00B4CBDE /* GoodUIViewCell.swift in Sources */,
+				647B357321EF04F8008D9340 /* Human3DModel.swift in Sources */,
+				64C723FB221CB68B007B4DB6 /* GetAddressModalView.swift in Sources */,
+				66D0A00721C0A39E00814B63 /* SettingSceneViewController.swift in Sources */,
+				64A1259721BACE7200DF7186 /* Global.swift in Sources */,
+				64B800B321F26EB300EF062A /* WeaponNameUIViewCell.swift in Sources */,
+				647B356421EE7AFA008D9340 /* Gun3DModel.swift in Sources */,
+				64BA1C18225366CA00062C72 /* HistoryTableViewCell.swift in Sources */,
+				66B9C13621C25AF6005FAB16 /* LevelSceneViewController.swift in Sources */,
+				643E0D3921FF1E970001AAEF /* ExtensionUI.swift in Sources */,
+				645AE95E221C06C800D14316 /* GameFailedModalView.swift in Sources */,
+				6463005421EFAB2500506307 /* UpdateWeaponViewController.swift in Sources */,
+				66D0A00521C0A39E00814B63 /* PreviewViewController.swift in Sources */,
+				64FAF7A9227E6B19004B9FB1 /* ARworldProducts.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		64A1257721BA8FC800DF7186 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				64A1257821BA8FC800DF7186 /* Base */,
+				64BF9E152260106E00EFD859 /* zh-Hans */,
+				64BF9E172260108600EFD859 /* ko */,
+				64BF9E192260109400EFD859 /* ja */,
+				64B2C6742271565600A9D642 /* en */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		64A1257C21BA8FDB00DF7186 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				64A1257D21BA8FDB00DF7186 /* Base */,
+				64BF9E162260107000EFD859 /* zh-Hans */,
+				64BF9E182260108700EFD859 /* ko */,
+				64BF9E1A2260109500EFD859 /* ja */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		64A1258021BA8FDB00DF7186 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		64A1258121BA8FDB00DF7186 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+				VALID_ARCHS = arm64;
+				"VALID_ARCHS[sdk=*]" = arm64;
+			};
+			name = Release;
+		};
+		64A1258321BA8FDB00DF7186 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 45CC09D8D2779D75DD20392B /* Pods-ARWorld.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MM6R4KM2LB;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = ARWorld/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.myxh.coolshopping;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/ARWorld/ARWorld-Bridging-Header.h";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		64A1258421BA8FDB00DF7186 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 705E4B7E38B66B6853335145 /* Pods-ARWorld.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = MM6R4KM2LB;
+				ENABLE_BITCODE = NO;
+				INFOPLIST_FILE = ARWorld/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.myxh.coolshopping;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/ARWorld/ARWorld-Bridging-Header.h";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = 1;
+				"VALID_ARCHS[sdk=*]" = arm64;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		64A1256B21BA8FC700DF7186 /* Build configuration list for PBXProject "ARWorld" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64A1258021BA8FDB00DF7186 /* Debug */,
+				64A1258121BA8FDB00DF7186 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		64A1258221BA8FDB00DF7186 /* Build configuration list for PBXNativeTarget "ARWorld" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				64A1258321BA8FDB00DF7186 /* Debug */,
+				64A1258421BA8FDB00DF7186 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 64A1256821BA8FC700DF7186 /* Project object */;
+}

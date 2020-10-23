@@ -1,0 +1,456 @@
+
+/* Class = "UILabel"; text = "重装枪"; ObjectID = "0gZ-ns-x6T"; */
+"0gZ-ns-x6T.text" = "重装枪";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "0tG-LN-UwR"; */
+"0tG-LN-UwR.text" = "层.1";
+
+/* Class = "UILabel"; text = "它 安 装"; ObjectID = "1BQ-AT-ZWn"; */
+"1BQ-AT-ZWn.text" = "它 安 装";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "1bI-ge-ejL"; */
+"1bI-ge-ejL.text" = "87";
+
+/* Class = "UISegmentedControl"; 1iv-1h-aNI.segmentTitles[0] = "电话方式"; ObjectID = "1iv-1h-aNI"; */
+"1iv-1h-aNI.segmentTitles[0]" = "电话方式";
+
+/* Class = "UISegmentedControl"; 1iv-1h-aNI.segmentTitles[1] = "眼镜法"; ObjectID = "1iv-1h-aNI"; */
+"1iv-1h-aNI.segmentTitles[1]" = "眼镜法";
+
+/* Class = "UILabel"; text = "74.91 元"; ObjectID = "28D-xD-fxH"; */
+"28D-xD-fxH.text" = "74.91 元";
+
+/* Class = "UIButton"; normalTitle = "保     存"; ObjectID = "2EP-P2-V4w"; */
+"2EP-P2-V4w.normalTitle" = "保     存";
+
+/* Class = "UILabel"; text = "3.27S"; ObjectID = "2X7-Zt-epf"; */
+"2X7-Zt-epf.text" = "3.27S";
+
+/* Class = "UILabel"; text = "稳定性"; ObjectID = "3Um-sk-Yz7"; */
+"3Um-sk-Yz7.text" = "稳定性";
+
+/* Class = "UILabel"; text = "游戏任务"; ObjectID = "4Ai-5f-nwJ"; */
+"4Ai-5f-nwJ.text" = "游戏任务";
+
+/* Class = "UILabel"; text = "弹药数"; ObjectID = "4bq-Hx-p2t"; */
+"4bq-Hx-p2t.text" = "弹药数";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "4dW-Lg-0K1"; */
+"4dW-Lg-0K1.text" = "100";
+
+/* Class = "UILabel"; text = "控制方法"; ObjectID = "4mZ-R8-XWy"; */
+"4mZ-R8-XWy.text" = "控制方法";
+
+/* Class = "UILabel"; text = "付     款 :"; ObjectID = "5Mr-vS-Idk"; */
+"5Mr-vS-Idk.text" = "付     款 :";
+
+/* Class = "UILabel"; text = "未 开 封 "; ObjectID = "5Uc-WO-hxb"; */
+"5Uc-WO-hxb.text" = "未 开 封 ";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "5VY-kb-YQK"; */
+"5VY-kb-YQK.text" = "10,000";
+
+/* Class = "UILabel"; text = "自 动 步 枪"; ObjectID = "5Y3-ym-Gjo"; */
+"5Y3-ym-Gjo.text" = "自 动 步 枪";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "6rC-EJ-JSx"; */
+"6rC-EJ-JSx.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "增 加 攻 击"; ObjectID = "6yf-av-aqR"; */
+"6yf-av-aqR.normalTitle" = "增 加 攻 击";
+
+/* Class = "UILabel"; text = "现 在 购 买"; ObjectID = "7NZ-9L-CyF"; */
+"7NZ-9L-CyF.text" = "现 在 购 买";
+
+/* Class = "UIButton"; normalTitle = "包   裹"; ObjectID = "7hN-zC-CoK"; */
+"7hN-zC-CoK.normalTitle" = "包   裹";
+
+/* Class = "UILabel"; text = "42%"; ObjectID = "7ra-Pq-EBb"; */
+"7ra-Pq-EBb.text" = "42%";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "7wv-HF-y1g"; */
+"7wv-HF-y1g.text" = "10,000";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "85O-7L-lYC"; */
+"85O-7L-lYC.text" = "87";
+
+/* Class = "UILabel"; text = "3.27S"; ObjectID = "8Zz-H2-PPu"; */
+"8Zz-H2-PPu.text" = "3.27S";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "9Ry-Fa-5qw"; */
+"9Ry-Fa-5qw.text" = "+";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "9Sk-lp-VAd"; */
+"9Sk-lp-VAd.text" = "层.1";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "9Tv-fd-gv6"; */
+"9Tv-fd-gv6.text" = "10,000";
+
+/* Class = "UILabel"; text = "影响音乐"; ObjectID = "9bu-3D-sVn"; */
+"9bu-3D-sVn.text" = "影响音乐";
+
+/* Class = "UIButton"; normalTitle = "机   关"; ObjectID = "9h5-u3-Fzu"; */
+"9h5-u3-Fzu.normalTitle" = "机   关";
+
+/* Class = "UILabel"; text = "3.27S"; ObjectID = "9sQ-ER-YlI"; */
+"9sQ-ER-YlI.text" = "3.27S";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "AVH-ht-IpQ"; */
+"AVH-ht-IpQ.text" = "10,000";
+
+/* Class = "UILabel"; text = "80"; ObjectID = "AfO-Gx-0I9"; */
+"AfO-Gx-0I9.text" = "80";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "Ag1-ap-FIA"; */
+"Ag1-ap-FIA.text" = "KKK";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "B8F-Na-uZE"; */
+"B8F-Na-uZE.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "BeE-QP-o4A"; */
+"BeE-QP-o4A.text" = "层.1";
+
+/* Class = "UILabel"; text = "56"; ObjectID = "CAd-aQ-PNf"; */
+"CAd-aQ-PNf.text" = "56";
+
+/* Class = "UILabel"; text = "人 员 信 息"; ObjectID = "Crc-Pa-miM"; */
+"Crc-Pa-miM.text" = "人 员 信 息";
+
+/* Class = "UILabel"; text = "现 在 购 买"; ObjectID = "CsQ-Hv-8Kc"; */
+"CsQ-Hv-8Kc.text" = "现 在 购 买";
+
+/* Class = "UILabel"; text = "在这个回合中，你必须在10分钟内杀死3个怪物。"; ObjectID = "DKa-fb-jXS"; */
+"DKa-fb-jXS.text" = "在这个回合中，你必须在10分钟内杀死3个怪物。";
+
+/* Class = "UILabel"; text = "弹药量"; ObjectID = "DOe-0p-xNg"; */
+"DOe-0p-xNg.text" = "弹药量";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "DPz-gk-A4r"; */
+"DPz-gk-A4r.text" = "KKK";
+
+/* Class = "UIButton"; normalTitle = "登     出"; ObjectID = "Ebp-OS-lSu"; */
+"Ebp-OS-lSu.normalTitle" = "登     出";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "Esb-uw-i67"; */
+"Esb-uw-i67.text" = "20";
+
+/* Class = "UILabel"; text = "47.3%"; ObjectID = "F94-e0-DHd"; */
+"F94-e0-DHd.text" = "47.3%";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "Fzq-FL-qkg"; */
+"Fzq-FL-qkg.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "OpenID :"; ObjectID = "G1z-Y7-KdN"; */
+"G1z-Y7-KdN.text" = "OpenID :";
+
+/* Class = "UIButton"; normalTitle = "弹药量"; ObjectID = "G5O-ZO-lpI"; */
+"G5O-ZO-lpI.normalTitle" = "弹药量";
+
+/* Class = "UILabel"; text = "层  1"; ObjectID = "GEK-eg-OTy"; */
+"GEK-eg-OTy.text" = "层  1";
+
+/* Class = "UISegmentedControl"; Gow-GJ-O3h.segmentTitles[0] = "电话方式"; ObjectID = "Gow-GJ-O3h"; */
+"Gow-GJ-O3h.segmentTitles[0]" = "电话方式";
+
+/* Class = "UISegmentedControl"; Gow-GJ-O3h.segmentTitles[1] = "眼镜法"; ObjectID = "Gow-GJ-O3h"; */
+"Gow-GJ-O3h.segmentTitles[1]" = "眼镜法";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "HVZ-Fm-C76"; */
+"HVZ-Fm-C76.text" = "32";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "K26-U5-diI"; */
+"K26-U5-diI.text" = "20";
+
+/* Class = "UILabel"; text = "稳定性"; ObjectID = "KbJ-Tw-liu"; */
+"KbJ-Tw-liu.text" = "稳定性";
+
+/* Class = "UILabel"; text = "控制方法"; ObjectID = "LXm-gn-WC9"; */
+"LXm-gn-WC9.text" = "控制方法";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "LoJ-VQ-eSF"; */
+"LoJ-VQ-eSF.text" = "KKK";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "M5f-Te-ZZl"; */
+"M5f-Te-ZZl.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "Mov-bn-oe5"; */
+"Mov-bn-oe5.text" = "10,000";
+
+/* Class = "UIButton"; normalTitle = "稳定性"; ObjectID = "MqY-br-7mL"; */
+"MqY-br-7mL.normalTitle" = "稳定性";
+
+/* Class = "UILabel"; text = "武 器 信 息"; ObjectID = "NG8-w8-toI"; */
+"NG8-w8-toI.text" = "武 器 信 息";
+
+/* Class = "UIButton"; normalTitle = "重装枪"; ObjectID = "Nf7-TC-Uhp"; */
+"Nf7-TC-Uhp.normalTitle" = "重装枪";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "Nhi-8F-IjD"; */
+"Nhi-8F-IjD.text" = "KKK";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "Nv7-ki-Skp"; */
+"Nv7-ki-Skp.normalTitle" = "<<";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "O80-5Z-yom"; */
+"O80-5Z-yom.text" = "10,000";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "OAT-DP-6JI"; */
+"OAT-DP-6JI.text" = "10,000";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "OTd-mF-FU2"; */
+"OTd-mF-FU2.text" = "KKK";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "OV5-no-d8L"; */
+"OV5-no-d8L.text" = "10,000";
+
+/* Class = "UITextField"; text = "杨现"; ObjectID = "P6m-yh-cLc"; */
+"P6m-yh-cLc.text" = "杨现";
+
+/* Class = "UIButton"; normalTitle = "商     店"; ObjectID = "PBF-Yh-9UY"; */
+"PBF-Yh-9UY.normalTitle" = "商     店";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "PDO-Nk-sTo"; */
+"PDO-Nk-sTo.text" = "+";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "PQq-Kt-6X8"; */
+"PQq-Kt-6X8.text" = "20";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "PUY-r0-dyd"; */
+"PUY-r0-dyd.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "512"; ObjectID = "QNB-tI-boz"; */
+"QNB-tI-boz.text" = "512";
+
+/* Class = "UIButton"; normalTitle = "增 加 体 力"; ObjectID = "QnA-g7-5eb"; */
+"QnA-g7-5eb.normalTitle" = "增 加 体 力";
+
+/* Class = "UIButton"; normalTitle = "武   库"; ObjectID = "RQI-Lx-7kc"; */
+"RQI-Lx-7kc.normalTitle" = "武   库";
+
+/* Class = "UILabel"; text = "o0mt_1l0N-gq8ZumooDjhTfORMGw"; ObjectID = "SZQ-P8-aSa"; */
+"SZQ-P8-aSa.text" = "o0mt_1l0N-gq8ZumooDjhTfORMGw";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "Tc5-W0-dT9"; */
+"Tc5-W0-dT9.text" = "KKK";
+
+/* Class = "UIButton"; normalTitle = "用  户  登  录"; ObjectID = "U8m-ed-ULr"; */
+"U8m-ed-ULr.normalTitle" = "用  户  登  录";
+
+/* Class = "UILabel"; text = "47.3%"; ObjectID = "UJ2-1G-x78"; */
+"UJ2-1G-x78.text" = "47.3%";
+
+/* Class = "UILabel"; text = "名     称 :"; ObjectID = "UKv-wu-dgu"; */
+"UKv-wu-dgu.text" = "名     称 :";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "UOd-pV-pA3"; */
+"UOd-pV-pA3.text" = "10,000";
+
+/* Class = "UILabel"; text = "防  御"; ObjectID = "USS-kY-QPr"; */
+"USS-kY-QPr.text" = "防  御";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "UUs-kc-JOt"; */
+"UUs-kc-JOt.text" = "层.1";
+
+/* Class = "UIButton"; normalTitle = "开     始"; ObjectID = "UyX-Z3-ORZ"; */
+"UyX-Z3-ORZ.normalTitle" = "开     始";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "W3i-yL-Xng"; */
+"W3i-yL-Xng.text" = "KKK";
+
+/* Class = "UILabel"; text = "稳定性"; ObjectID = "XDo-ST-mvL"; */
+"XDo-ST-mvL.text" = "稳定性";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "XKp-fM-DgU"; */
+"XKp-fM-DgU.text" = "10,000";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "Y1Y-kC-wwe"; */
+"Y1Y-kC-wwe.text" = "32";
+
+/* Class = "UILabel"; text = "弹药量"; ObjectID = "Y3u-uu-Rlv"; */
+"Y3u-uu-Rlv.text" = "弹药量";
+
+/* Class = "UIButton"; normalTitle = ">>"; ObjectID = "YGd-nP-29u"; */
+"YGd-nP-29u.normalTitle" = ">>";
+
+/* Class = "UILabel"; text = "512"; ObjectID = "YM6-TZ-IDA"; */
+"YM6-TZ-IDA.text" = "512";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "YQz-w8-k5Q"; */
+"YQz-w8-k5Q.text" = "87";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "Yho-OK-Nap"; */
+"Yho-OK-Nap.text" = "87";
+
+/* Class = "UIButton"; normalTitle = "开 始 任 务"; ObjectID = "Ytt-bY-9Lg"; */
+"Ytt-bY-9Lg.normalTitle" = "开 始 任 务";
+
+/* Class = "UILabel"; text = "身体素质"; ObjectID = "Zeg-r5-gkv"; */
+"Zeg-r5-gkv.text" = "身体素质";
+
+/* Class = "UILabel"; text = "龙 1"; ObjectID = "aUV-Ne-cGy"; */
+"aUV-Ne-cGy.text" = "龙 1";
+
+/* Class = "UILabel"; text = "损  坏"; ObjectID = "bGY-ZW-3Ke"; */
+"bGY-ZW-3Ke.text" = "损  坏";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "bg7-SG-DYn"; */
+"bg7-SG-DYn.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "重装枪"; ObjectID = "btg-3F-wpb"; */
+"btg-3F-wpb.text" = "重装枪";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "c5O-qc-erm"; */
+"c5O-qc-erm.text" = "10,000";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "cH9-3e-ZnT"; */
+"cH9-3e-ZnT.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "cIr-4W-5xP"; */
+"cIr-4W-5xP.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "cdg-wA-Ccs"; */
+"cdg-wA-Ccs.text" = "10,000";
+
+/* Class = "UILabel"; text = "80"; ObjectID = "ceO-Y2-e24"; */
+"ceO-Y2-e24.text" = "80";
+
+/* Class = "UIButton"; normalTitle = "历   史"; ObjectID = "cff-Iz-HCw"; */
+"cff-Iz-HCw.normalTitle" = "历   史";
+
+/* Class = "UIButton"; normalTitle = "任   务"; ObjectID = "dgT-lM-UVh"; */
+"dgT-lM-UVh.normalTitle" = "任   务";
+
+/* Class = "UILabel"; text = "68"; ObjectID = "duE-tu-ABi"; */
+"duE-tu-ABi.text" = "68";
+
+/* Class = "UILabel"; text = "现 在 购 买"; ObjectID = "dvi-TQ-7Yg"; */
+"dvi-TQ-7Yg.text" = "现 在 购 买";
+
+/* Class = "UILabel"; text = "损  坏"; ObjectID = "e7c-o7-YSZ"; */
+"e7c-o7-YSZ.text" = "损  坏";
+
+/* Class = "UILabel"; text = "68"; ObjectID = "ewS-Ir-DQS"; */
+"ewS-Ir-DQS.text" = "68";
+
+/* Class = "UILabel"; text = "微   信   登   录"; ObjectID = "fTs-00-QZB"; */
+"fTs-00-QZB.text" = "微   信   登   录";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "g1k-6U-q80"; */
+"g1k-6U-q80.text" = "层.1";
+
+/* Class = "UILabel"; text = "损  坏"; ObjectID = "gEk-9d-M9W"; */
+"gEk-9d-M9W.text" = "损  坏";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "hcA-3x-OSs"; */
+"hcA-3x-OSs.text" = "10,000";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "iNU-YQ-6jh"; */
+"iNU-YQ-6jh.text" = "层.1";
+
+/* Class = "UILabel"; text = "Gun Name"; ObjectID = "iSB-sQ-whK"; */
+"iSB-sQ-whK.text" = "Gun Name";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "iUe-eY-Dwu"; */
+"iUe-eY-Dwu.text" = "50";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "im8-q3-zIe"; */
+"im8-q3-zIe.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "武 器 信 息"; ObjectID = "kpP-o2-zZh"; */
+"kpP-o2-zZh.text" = "武 器 信 息";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "lSz-W1-yMh"; */
+"lSz-W1-yMh.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "安   装"; ObjectID = "ltF-PP-kn8"; */
+"ltF-PP-kn8.normalTitle" = "安   装";
+
+/* Class = "UILabel"; text = "重装枪"; ObjectID = "mPV-fz-PVU"; */
+"mPV-fz-PVU.text" = "重装枪";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "ml5-kV-QDH"; */
+"ml5-kV-QDH.text" = "层.1";
+
+/* Class = "UILabel"; text = "主要故事"; ObjectID = "nQS-S1-IER"; */
+"nQS-S1-IER.text" = "主要故事";
+
+/* Class = "UILabel"; text = "背景音乐"; ObjectID = "oPz-xH-amT"; */
+"oPz-xH-amT.text" = "背景音乐";
+
+/* Class = "UILabel"; text = "竞争补偿"; ObjectID = "pHo-oE-zgk"; */
+"pHo-oE-zgk.text" = "竞争补偿";
+
+/* Class = "UILabel"; text = "昵     称 :"; ObjectID = "pRH-Lf-A9f"; */
+"pRH-Lf-A9f.text" = "昵     称 :";
+
+/* Class = "UILabel"; text = "杨现"; ObjectID = "pZo-e2-D07"; */
+"pZo-e2-D07.text" = "杨现";
+
+/* Class = "UILabel"; text = "攻 击 力"; ObjectID = "pw1-I9-pcn"; */
+"pw1-I9-pcn.text" = "攻 击 力";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "rnv-rK-QI5"; */
+"rnv-rK-QI5.text" = "10,000";
+
+/* Class = "UILabel"; text = "胡龙出现在人类世界。你必须杀死胡龙才能解救人类。"; ObjectID = "sEz-AF-lWZ"; */
+"sEz-AF-lWZ.text" = "胡龙出现在人类世界。你必须杀死胡龙才能解救人类。";
+
+/* Class = "UILabel"; text = "层.1"; ObjectID = "spi-uI-sAR"; */
+"spi-uI-sAR.text" = "层.1";
+
+/* Class = "UIButton"; normalTitle = "更   新"; ObjectID = "tSZ-bG-xiw"; */
+"tSZ-bG-xiw.normalTitle" = "更   新";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "uhp-Xe-IuA"; */
+"uhp-Xe-IuA.text" = "15";
+
+/* Class = "UILabel"; text = "47.3%"; ObjectID = "uks-J7-H03"; */
+"uks-J7-H03.text" = "47.3%";
+
+/* Class = "UILabel"; text = "层  1"; ObjectID = "vHL-hC-Tob"; */
+"vHL-hC-Tob.text" = "层  1";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "vWy-ae-kbs"; */
+"vWy-ae-kbs.text" = "20";
+
+/* Class = "UILabel"; text = "弹药量"; ObjectID = "wNn-0E-iQw"; */
+"wNn-0E-iQw.text" = "弹药量";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "wPb-Bk-K9b"; */
+"wPb-Bk-K9b.text" = "10,000";
+
+/* Class = "UILabel"; text = "1 / 5"; ObjectID = "wkZ-rV-xva"; */
+"wkZ-rV-xva.text" = "1 / 5";
+
+/* Class = "UILabel"; text = "68"; ObjectID = "wl6-8v-QPQ"; */
+"wl6-8v-QPQ.text" = "68";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "xjU-fA-mXi"; */
+"xjU-fA-mXi.text" = "KKK";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "y8P-un-8tL"; */
+"y8P-un-8tL.text" = "10,000";
+
+/* Class = "UIButton"; normalTitle = "增 加 防 守"; ObjectID = "ykK-8O-Pty"; */
+"ykK-8O-Pty.normalTitle" = "增 加 防 守";
+
+/* Class = "UILabel"; text = "02 : 30"; ObjectID = "yzc-qT-fAr"; */
+"yzc-qT-fAr.text" = "02 : 30";
+
+/* Class = "UIButton"; normalTitle = "   背  部"; ObjectID = "z0U-rv-crQ"; */
+"z0U-rv-crQ.normalTitle" = "   背  部";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "z1V-H3-0oE"; */
+"z1V-H3-0oE.text" = "10,000";
+
+/* Class = "UIButton"; normalTitle = "设     置"; ObjectID = "zIH-jJ-F1j"; */
+"zIH-jJ-F1j.normalTitle" = "设     置";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "zUR-L4-zWo"; */
+"zUR-L4-zWo.text" = "10,000";
+
+/* Class = "UIButton"; normalTitle = "损  坏"; ObjectID = "zZd-fk-Doi"; */
+"zZd-fk-Doi.normalTitle" = "损  坏";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "zfp-cO-J8g"; */
+"zfp-cO-J8g.text" = "100";

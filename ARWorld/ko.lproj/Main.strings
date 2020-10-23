@@ -1,0 +1,455 @@
+/* Class = "UILabel"; text = "총로드"; ObjectID = "0gZ-ns-x6T"; */
+"0gZ-ns-x6T.text"= "무기로드";
+
+/* Class = "UILabel"; text = "레벨 1"; ObjectID = "0tG-LN-UwR"; */
+"0tG-LN-UwR.text"= "레벨 1";
+
+/* Class = "UILabel"; text = "설치"; ObjectID = "1BQ-AT-ZWn"; */
+"1BQ-AT-ZWn.text"= "설치";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "1bI-ge-ejL"; */
+"1bI-ge-ejL.text"= "87";
+
+/* Class = "UISegmentedControl"; 1iv-1h-aNI.segmentTitles [0] = "전화 모드"; ObjectID = "1iv-1h-aNI"; */
+"1iv-1h-aNI.segmentTitles [0]"= "전화방식";
+
+/* Class = "UISegmentedControl"; 1iv-1h-aNI.segmentTitles [1] = "안경 방식"; ObjectID = "1iv-1h-aNI"; */
+"1iv-1h-aNI.segmentTitles [1]"= "안경방식";
+
+/* Class = "UILabel"; text = "74.91 元"; ObjectID = "28D-xD-fxH"; */
+"28D-xD-fxH.text"= "74.91 웬";
+
+/* Class = "UIButton"; normalTitle = "저장"; ObjectID = "2EP-P2-V4w"; */
+"2EP-P2-V4w.normalTitle"= "저장";
+
+/* Class = "UILabel"; text = "3.27S"; ObjectID = "2X7-Zt-epf"; */
+"2X7-Zt-epf.text"= "3.27S";
+
+/* Class = "UILabel"; text = "안정성"; ObjectID = "3Um-sk-Yz7"; */
+"3Um-sk-Yz7.text"= "안정성";
+
+/* Class = "UILabel"; text = "게임 작업"; ObjectID = "4Ai-5f-nwJ"; */
+"4Ai-5f-nwJ.text"= "회전목표";
+
+/* Class = "UILabel"; text = "탄약"; ObjectID = "4bq-Hx-p2t"; */
+"4bq-Hx-p2t.text"= "탄알수";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "4dW-Lg-0K1"; */
+"4dW-Lg-0K1.text"= "100";
+
+/* Class = "UILabel"; text = "제어 방법"; ObjectID = "4mZ-R8-XWy"; */
+"4mZ-R8-XWy.text"= "조종방식";
+
+/* Class = "UILabel"; 텍스트 = "지불 :"; ObjectID = "5Mr-vS-Idk"; */
+"5Mr-vS-Idk.text"= "지불 :";
+
+/* Class = "UILabel"; text = "Unopened"; ObjectID = "5Uc-WO-hxb"; */
+"5Uc-WO-hxb.text"= "미개봉";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "5VY-kb-YQK"; */
+"5VY-kb-YQK.text"= "10,000";
+
+/* Class = "UILabel"; text = "자동 소총"; ObjectID = "5Y3-ym-Gjo"; */
+"5Y3-ym-Gjo.text"= "자동소총";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "6rC-EJ-JSx"; */
+"6rC-EJ-JSx.text"= "100";
+
+/* Class = "UIButton"; normalTitle = "공격 추가"; ObjectID = "6yf-av-aqR"; */
+"6yf-av-aqR.normalTitle"= "공격중가";
+
+/* Class = "UILabel"; text = "지금 구입"; ObjectID = "7NZ-9L-CyF"; */
+"7NZ-9L-CyF.text"= "구입";
+
+/* Class = "UIButton"; normalTitle = "package"; ObjectID = "7hN-zC-CoK"; */
+"7hN-zC-CoK.normalTitle"= "패키지";
+
+/* Class = "UILabel"; text = "42 %"; ObjectID = "7ra-Pq-EBb"; */
+"7ra-Pq-EBb.text"= "42 %";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "7wv-HF-y1g"; */
+"7wv-HF-y1g.text"= "10,000";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "85O-7L-lYC"; */
+"85O-7L-lYC.text"= "87";
+
+/* Class = "UILabel"; text = "3.27S"; ObjectID = "8Zz-H2-PPu"; */
+"8Zz-H2-PPu.text"= "3.27 s";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "9Ry-Fa-5qw"; */
+"9Ry-Fa-5qw.text"= "+";
+
+/* Class = "UILabel"; text = "layer.1"; ObjectID = "9Sk-lp-VAd"; */
+"9Sk-lp-VAd.text"= "layer.1";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "9Tv-fd-gv6"; */
+"9Tv-fd-gv6.text"= "10,000";
+
+/* Class = "UILabel"; text = "음악에 영향을 미침"; ObjectID = "9bu-3D-sVn"; */
+"9bu-3D-sVn.text"= "효과음";
+
+/* Class = "UIButton"; normalTitle = "role"; ObjectID = "9h5-u3-Fzu"; */
+"9h5-u3-Fzu.normalTitle"= "Route";
+
+/* Class = "UILabel"; text = "3.27S"; ObjectID = "9sQ-ER-YII"; */
+"9sQ-ER-YlI.text"= "3.27S";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "AVH-ht-IpQ"; */
+"AVH-ht-IpQ.text"= "10,000";
+
+/* Class = "UILabel"; text = "80"; ObjectID = "AfO-Gx-0I9"; */
+"AfO-Gx-0I9.text"= "80";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "Ag1-ap-FIA"; */
+"Ag1-ap-FIA.text"= "KKK";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "B8F-Na-uZE"; */
+"B8F-Na-uZE.normalTitle"= "뒤로";
+
+/* Class = "UILabel"; text = "layer.1"; ObjectID = "BeE-QP-o4A"; */
+"BeE-QP-o4A.text"= "레벨 1";
+
+/* Class = "UILabel"; text = "56"; ObjectID = "CAd-aQ-PNf"; */
+"CAd-aQ-PNf.text"= "56";
+
+/* Class = "UILabel"; text = "사람 정보"; ObjectID = "Crc-Pa-miM"; */
+"Crc-Pa-miM.text"= "개인정보";
+
+/* Class = "UILabel"; text = "지금 구입"; ObjectID = "CsQ-Hv-8Kc"; */
+"CsQ-Hv-8Kc.text"= "구입";
+
+/* Class = "UILabel"; text = "在这个回合中，你必须在10分钟内杀死3个怪物。"; ObjectID = "DKa-fb-jXS"; */
+"DKa-fb-jXS.text"= "이 라운드에서는 10분내에 3개의 몬스터를 처치해야합니다.";
+
+/* Class = "UILabel"; text = "탄약"; ObjectID = "DOe-0p-xNg"; */
+"DOe-0p-xNg.text"= "탄약";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "DPz-gk-A4r"; */
+"DPz-gk-A4r.text"= "KKK";
+
+/* Class = "UIButton"; normalTitle = "로그 아웃"; ObjectID = "Ebp-OS-lSu"; */
+"Ebp-OS-lSu.normalTitle"= "로그 아웃";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "Esb-uw-i67"; */
+"Esb-uw-i67.text"= "20";
+
+/* Class = "UILabel"; text = "47.3 %"; ObjectID = "F94-e0-DHd"; */
+"F94-e0-DHd.text"= "47.3 %";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Fzq-FL-qkg"; */
+"Fzq-FL-qkg.normalTitle"= "뒤로";
+
+/* Class = "UILabel"; text = "OpenID :"; ObjectID = "G1z-Y7-KdN"; */
+"G1z-Y7-KdN.text"= "OpenID :";
+
+/* Class = "UIButton"; normalTitle = "탄약"; ObjectID = "G5O-ZO-lpI"; */
+"G5O-ZO-lpI.normalTitle"= "탄약";
+
+/* Class = "UILabel"; text = "Layer 1"; ObjectID = "GEK-eg-OTy"; */
+"GEK-eg-OTy.text"= "레벨 1";
+
+/* Class = "UISegmentedControl"; Gow-GJ-O3h.segmentTitles [0] = "전화기", OBJECTID = "Gow-GJ-O3h"*/
+"Gow-GJ-O3h.segmentTitles [0]"= "전화방식";
+
+/* Class = "UISegmentedControl"; Gow-GJ-O3h.segmentTitles [1] = "유리 방법"; OBJECTID = "Gow-GJ-O3h"*/
+"Gow-GJ-O3h.segmentTitles [1]"= "안경방식";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "HVZ-Fm-C76"; */
+"HVZ-Fm-C76.text"= "32";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "K26-U5-diI"; */
+"K26-U5-diI.text"= "20";
+
+/* Class = "UILabel"; text = "안정성"; ObjectID = "KbJ-Tw-liu"; */
+"KbJ-Tw-liu.text"= "안정성";
+
+/* Class = "UILabel"; text = "제어 방법"; ObjectID = "LXm-gn-WC9"; */
+"LXm-gn-WC9.text"= "조종방식";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "LoJ-VQ-eSF"; */
+"LoJ-VQ-eSF.text"= "KKK";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "M5f-Te-ZZl"; */
+"M5f-Te-ZZl.normalTitle"= "Back";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "Mov-bn-oe5"; */
+"Mov-bn-oe5.text"= "10,000";
+
+/* Class = "UIButton"; normalTitle = "안정성"; ObjectID = "MqY-br-7mL"; */
+"MqY-br-7mL.normalTitle"= "안정성";
+
+/* Class = "UILabel"; text = "군비 정보"; ObjectID = "NG8-w8-toI"; */
+"NG8-w8-toI.text"= "무기정보";
+
+/* 클래스 = "있는 UIButton"; normalTitle = "무거운 건"; OBJECTID = "NF7-TC-UHP"*/
+"Nf7-TC-Uhp.normalTitle"= "무기로드";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "Nhi-8F-IjD"; */
+"Nhi-8F-IjD.text"= "KKK";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "Nv7-ki-Skp"; */
+"Nv7-ki-Skp.normalTitle"= "<<";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "O80-5Z-yom"; */
+"O80-5Z-yom.text"= "10,000";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "OAT-DP-6JI"; */
+"OAT-DP-6JI.text"= "10,000";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "OTd-mF-FU2"; */
+"OTD-mF-FU2.text"= "KKK";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "OV5-no-d8L"; */
+"OV5-no-d8L.text"= "10,000";
+
+/* Class = "UITextField"; text = "Yang Xian"; ObjectID = "P6m-yh-cLc"; */
+"P6m-yh-cLc.text"= "양 시안";
+
+/* Class = "UIButton"; normalTitle = "Shop"; ObjectID = "PBF-Yh-9UY"; */
+"PBF-Yh-9UY.normalTitle"= "상점";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "PDO-Nk-sTo"; */
+"PDO-Nk-sTo.text"= "+";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "PQq-Kt-6X8"; */
+"PQq-Kt-6X8.text"= "20";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "PUY-r0-dyd"; */
+"PUY-r0-dyd.normalTitle"= "뒤로";
+
+/* Class = "UILabel"; text = "512"; ObjectID = "QNB-tI-boz"; */
+"QNB-tI-boz.text"= "512";
+
+/* Class = "UIButton"; normalTitle = "체력 추가", ObjectID = "QnA-g7-5eb"; */
+"QnA-g7-5eb.normalTitle"= "체력중가";
+
+/* Class = "UIButton"; normalTitle = "군사 라이브러리"; OBJECTID = "RQI-LX-7kc"*/
+"RQI-Lx-7kc.normalTitle"= "무기고";
+
+/* Class = "UILabel의"; text = "o0mt_1l0N-gq8ZumooDjhTfORMGw"; OBJECTID = "SZQ-P8-ASA"*/
+"SZQ-P8-aSa.text"= "o0mt_1l0N-gq8ZumooDjhTfORMGw";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "Tc5-W0-dT9"; */
+"Tc5-W0-dT9.text"= "KKK";
+
+/* Class = "UIButton"; normalTitle = "사용자 로그인"; ObjectID = "U8m-ed-ULr"; */
+"U8m-ed-ULr.normalTitle"= "로그인";
+
+/* Class = "UILabel"; text = "47.3 %"; ObjectID = "UJ2-1G-x78"; */
+"UJ2-1G-x78.text"= "47.3 %";
+
+/* Class = "UILabel"; text = "Name :"; ObjectID = "UKv-wu-dgu"; */
+"UKv-wu-dgu.text"= "성명 :";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "UOd-pV-pA3"; */
+"UOd-pV-pA3.text"= "10,000";
+
+/* Class = "UILabel"; 텍스트 = "방어"; ObjectID = "USS-kY-QPr"; */
+"USS-kY-QPr.text"= "방어력";
+
+/* Class = "UILabel"; text = "layer.1"; ObjectID = "UUs-kc-JOt"; */
+"UUs-kc-JOt.text"= "레벨 1";
+
+/* Class = "UIButton"; normalTitle = "시작"; ObjectID = "UyX-Z3-ORZ"; */
+"UyX-Z3-ORZ.normalTitle"= "시작";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "W3i-yL-Xng"; */
+"W3i-yL-Xng.text"= "KKK";
+
+/* Class = "UILabel"; text = "안정성"; ObjectID = "XDo-ST-mvL"; */
+"XDo-ST-mvL.text"= "안정성";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "XKp-fM-DgU"; */
+"XKp-fM-DgU.text"= "10,000";
+
+/* Class = "UILabel"; text = "32"; ObjectID = "Y1Y-kC-wwe"; */
+"Y1Y-kC-wwe.text"= "32";
+
+/* Class = "UILabel"; text = "탄약"; ObjectID = "Y3u-uu-Rlv"; */
+"Y3u-uu-Rlv.text"= "탄약";
+
+/* Class = "UIButton"; normalTitle = ">>"; ObjectID = "YGd-nP-29u"; */
+"YGd-nP-29u.normalTitle"= ">>";
+
+/* Class = "UILabel"; text = "512"; ObjectID = "YM6-TZ-IDA"; */
+"YM6-TZ-IDA.text"= "512";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "YQz-w8-k5Q"; */
+"YQz-w8-k5Q.text"= "87";
+
+/* Class = "UILabel"; text = "87"; ObjectID = "Yho-OK-Nap"; */
+"Yho-OK-Nap.text"= "87";
+
+/* Class = "UIButton"; normalTitle = "작업 시작"; ObjectID = "Ytt-bY-9Lg"; */
+"Ytt-bY-9Lg.normalTitle"= "회전시작";
+
+/* Class = "UILabel"; text = "Physical"; ObjectID = "Zeg-r5-gkv"; */
+"Zeg-r5-gkv.text"= "체력";
+
+/* Class = "UILabel"; text = "Dragon 1"; ObjectID = "aUV-Ne-cGy"; */
+"aUV-Ne-cGy.text"= "드래곤 1";
+
+/* Class = "UILabel"; text = "damage"; ObjectID = "bGY-ZW-3Ke"; */
+"bGY-ZW-3Ke.text"= "공격력";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "bg7-SG-DYn"; */
+"bg7-SG-DYn.normalTitle"= "뒤로";
+
+/* Class = "UILabel"; text = "총로드"; ObjectID = "btg-3F-wpb"; */
+"btg-3F-wpb.text"= "무기로드";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "c5O-qc-erm"; */
+"c5O-qc-erm.text"= "10,000";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "cH9-3e-ZnT"; */
+"cH9-3e-ZnT.text"= "100";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cIr-4W-5xP"; */
+"cIr-4W-5xP.normalTitle"= "뒤로";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "cdg-wA-Ccs"; */
+"cdg-wA-Ccs.text"= "10,000";
+
+/* Class = "UILabel"; text = "80"; ObjectID = "ceO-Y2-e24"; */
+"ce0-y2-e24.text"= "80";
+
+/* Class = "UIButton"; normalTitle = "History"; ObjectID = "cff-Iz-HCw"; */
+"cff-Iz-HCw.normalTitle"= "역사";
+
+/* Class = "UIButton"; normalTitle = "task"; ObjectID = "dgT-1M-UVh"; */
+"dgT-1M-UVh.normalTitle"= "임무";
+
+/* Class = "UILabel"; text = "68"; ObjectID = "duE-tu-ABi"; */
+"duE-tu-ABi.text"= "68";
+
+/* Class = "UILabel"; text = "지금 구입"; ObjectID = "dvi-TQ-7Yg"; */
+"dvi-TQ-7Yg.text"= "구입";
+
+/* Class = "UILabel"; text = "damage"; ObjectID = "e7c-o7-YSZ"; */
+"e7c-o7-YSZ.text"= "공격력";
+
+/* Class = "UILabel"; text = "68"; ObjectID = "ewS-Ir-DQS"; */
+"ewS-Ir-DQS.text"= "68";
+
+/* Class = "UILabel"; text = "WeChat login"; ObjectID = "fTs-00-QZB"; */
+"fTs-00-QZB.text"= "웨신로그인";
+
+/* Class = "UILabel"; text = "layer.1"; ObjectID = "g1k-6U-q80"; */
+"g1k-6U-q80.text"= "레벨 1";
+
+/* Class = "UILabel"; text = "damage"; ObjectID = "gEk-9d-M9W"; */
+"gEk-9d-M9W.text"= "공격력";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "hcA-3x-OSs"; */
+"hcA-3x-OSs.text"= "10,000";
+
+/* Class = "UILabel"; text = "layer.1"; ObjectID = "iNU-YQ-6jh"; */
+"iNU-YQ-6jh.text"= "레벨 1";
+
+/* Class = "UILabel"; text = "총 이름"; ObjectID = "iSB-sQ-whK"; */
+"iSB-sQ-whK.text"= "총이름";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "iUe-eY-Dwu"; */
+"iUe-eY-Dwu.text"= "50";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "im8-q3-zIe"; */
+"im8-q3-zIe.normalTitle"= "뒤로";
+
+/* 클래스 = "UILabel의"; 텍스트 = "무기 정보"; OBJECTID = "KPP-O2-zZh"*/
+"kpP-o2-zZh.text"= "무기정보";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "lSz-W1-yMh"; */
+"lSz-W1-yMh.text"= "5";
+
+/* Class = "UIButton"; normalTitle = "설치"; ObjectID = "ltF-PP-kn8"; */
+"lt-PP-kn8.normalTitle"= "설치";
+
+/* Class = "UILabel"; text = "총로드"; ObjectID = "mPV-fz-PVU"; */
+"mPV-fz-PVU.text"= "무기로드";
+
+/* Class = "UILabel"; text = "layer.1"; ObjectID = "ml5-kV-QDH"; */
+"ml5-kV-QDH.text"= "레벨 1";
+
+/* Class = "UILabel"; text = "주요 스토리"; ObjectID = "nQS-S1-IER"; */
+"nQS-S1-IER.text"= "이야기줄거리";
+
+/* Class = "UILabel"; text = "배경 음악"; ObjectID = "oPz-xH-amT"; */
+"oPz-xH-amT.text"= "배경음";
+
+/* 클래스 = "UILabel의"; 텍스트 = "경쟁력있는 보상"; OBJECTID = "포-OE-zgk"*/
+"pHo-oE-zgk.text"= "보상";
+
+/* 클래스 = "UILabel의"; 텍스트 = "별명 :"; OBJECTID = "PRH-LF-A9f"*/
+"pRH-Lf-A9f.text"= "닉명 :";
+
+/* Class = "UILabel"; text = "Yang Xian"; ObjectID = "pZo-e2-D07"; */
+"pZo-e2-D07.text"= "Yang Xian";
+
+/* Class = "UILabel"; text = "공격력"; ObjectID = "pw1-I9-pcn"; */
+"pw1-I9-pcn.text"= "공격력";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "rnv-rK-QI5"; */
+"rnv-rK-QI5.text"= "10,000";
+
+/* 클래스 = "UILabel의"; 텍스트 = "후 드래곤은 인류 후를 저장하기 위해 용을 죽여야 인간 세계에 등장 .."; OBJECTID는 "-AF-LWZ 경제 특구"= */
+"sEz-AF-lWZ.text"= "휴 긴은 인간 세계에 나타납니다. 인류를 구하기 위해 후진타오를 죽여야합니다.";
+
+/* Class = "UILabel"; text = "layer.1"; ObjectID = "spi-uI-sAR"; */
+"spi-uI-sAR.text"= "레벨 1";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "tSZ-bG-xiw"; */
+"tSZ-bG-xiw.normalTitle"= "업데이트";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "uhp-Xe-IuA"; */
+"uhp-Xe-IuA.text"= "15";
+
+/* Class = "UILabel"; text = "47.3 %"; ObjectID = "uks-J7-H03"; */
+"uks-J7-H03.text"= "47.3 %";
+
+/* Class = "UILabel"; text = "Layer 1"; ObjectID = "vHL-hC-Tob"; */
+"vHL-hC-Tob.text"= "레벨 1";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "vWy-ae-kbs"; */
+"vWy-ae-kbs.text"= "20";
+
+/* 클래스 = "UILabel의"; 텍스트 = "탄약"; OBJECTID = "WNN-0E-iQw"*/
+"wNn-0E-iQw.text"= "탄약";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "wPb-Bk-K9b"; */
+"wPb-Bk-K9b.text"= "10,000";
+
+/* Class = "UILabel"; text = "1 / 5"; ObjectID = "wkZ-rV-xva"; */
+"wkZ-rV-xva.text"= "1 / 5";
+
+/* Class = "UILabel"; text = "68"; ObjectID = "wl6-8v-QPQ"; */
+"wl6-8v-QPQ.text"= "68";
+
+/* Class = "UILabel"; text = "KKK"; ObjectID = "xjU-fA-mXi"; */
+"xjU-fA-mXi.text"= "KKK";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "y8P-un-8tL"; */
+"y8P-un-8tL.text"= "10,000";
+
+/* Class = "UIButton"; normalTitle는 = "반 킵 증가"; OBJECTID = "YKK-80-Pty가"; */
+"ykK-8O-Pty.normalTitle"= "방어중가";
+
+/* Class = "UILabel"; text = "02 : 30"; ObjectID = "yzc-qT-fAr"; */
+"yzc-qT-fAr.text"= "02 : 30";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "z0U-rv-crQ"; */
+"z0U-rv-crQ.normalTitle"= "뒤로";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "z1V-H3-0oE"; */
+"z1V-H3-0oE.text"= "10,000";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "zIH-jJ-F1j"; */
+"zIH-jJ-F1j.normalTitle"= "설정";
+
+/* Class = "UILabel"; text = "10,000"; ObjectID = "zUR-L4-zWo"; */
+"zUR-L4-zWo.text" = "10,000";
+
+/* Class = "UIButton"; normalTitle = "손상"; ObjectID = "zZd-fk-Doi"; */
+"zZd-fk-Doi.normalTitle"= "손상";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "zfp-cO-J8g"; */
+"zfp-cO-J8g.text"= "100";

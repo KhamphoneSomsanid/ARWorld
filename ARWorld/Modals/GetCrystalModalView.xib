@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_9" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" restorationIdentifier="GetCrystalModalView" id="iN0-l3-epB" customClass="GetCrystalModalView" customModule="ARWorld" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="812" height="375"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VvB-z7-ob9">
+                    <rect key="frame" x="246" y="65.333333333333329" width="320" height="223.33333333333337"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="去 商 店" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ju2-Lr-KRT">
+                            <rect key="frame" x="121.66666666666669" y="24" width="77" height="26.333333333333329"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                            <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cq7-4x-TXC">
+                            <rect key="frame" x="20" y="65.333333333333329" width="280" height="1"/>
+                            <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="OOM-UU-p2v"/>
+                            </constraints>
+                        </view>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="你的水晶量不够。请去水晶店买些水晶。" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gln-OW-X2H">
+                            <rect key="frame" x="24" y="86.333333333333329" width="273" height="47.999999999999986"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                            <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="72T-DR-INr">
+                            <rect key="frame" x="30" y="158.33333333333331" width="115" height="45"/>
+                            <color key="backgroundColor" red="0.25490196079999999" green="0.36078431370000003" blue="0.89019607840000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="45" id="UZv-zx-EDd"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                            <state key="normal" title="去商店">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="onClickShopUB:" destination="iN0-l3-epB" eventType="touchUpInside" id="95X-Yq-qHs"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="W8j-B6-F7e">
+                            <rect key="frame" x="175" y="158.33333333333331" width="115" height="45"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="45" id="ltn-WB-toe"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                            <state key="normal" title="取消">
+                                <color key="titleColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <connections>
+                                <action selector="onClickCancelUB:" destination="iN0-l3-epB" eventType="touchUpInside" id="Ceg-Vw-bg0"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y8c-VZ-CAT">
+                            <rect key="frame" x="285" y="-9.9999999999999929" width="45" height="45"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="45" id="MAd-NQ-pgf"/>
+                                <constraint firstAttribute="width" constant="45" id="hJV-wN-tdR"/>
+                            </constraints>
+                            <state key="normal" image="ico_cancel"/>
+                            <connections>
+                                <action selector="onClickCloseUB:" destination="iN0-l3-epB" eventType="touchUpInside" id="ZA2-oA-WDU"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="cq7-4x-TXC" firstAttribute="leading" secondItem="VvB-z7-ob9" secondAttribute="leading" constant="20" id="28j-5x-VqM"/>
+                        <constraint firstItem="gln-OW-X2H" firstAttribute="centerX" secondItem="VvB-z7-ob9" secondAttribute="centerX" id="5gg-Nb-Tnt"/>
+                        <constraint firstItem="72T-DR-INr" firstAttribute="leading" secondItem="VvB-z7-ob9" secondAttribute="leading" constant="30" id="6gC-XE-weA"/>
+                        <constraint firstItem="Y8c-VZ-CAT" firstAttribute="trailing" secondItem="VvB-z7-ob9" secondAttribute="trailing" constant="10" id="GZp-qC-XwK"/>
+                        <constraint firstItem="ju2-Lr-KRT" firstAttribute="centerX" secondItem="VvB-z7-ob9" secondAttribute="centerX" id="Jqk-sV-3yY"/>
+                        <constraint firstAttribute="trailing" secondItem="W8j-B6-F7e" secondAttribute="trailing" constant="30" id="Q4L-VP-bRE"/>
+                        <constraint firstItem="gln-OW-X2H" firstAttribute="top" secondItem="cq7-4x-TXC" secondAttribute="bottom" constant="20" id="SP4-Ls-tc6"/>
+                        <constraint firstItem="72T-DR-INr" firstAttribute="width" secondItem="W8j-B6-F7e" secondAttribute="width" id="SbT-iw-S67"/>
+                        <constraint firstItem="W8j-B6-F7e" firstAttribute="leading" secondItem="72T-DR-INr" secondAttribute="trailing" constant="30" id="Zka-PB-dTD"/>
+                        <constraint firstItem="gln-OW-X2H" firstAttribute="leading" secondItem="VvB-z7-ob9" secondAttribute="leading" constant="24" id="ZzA-fn-g6G"/>
+                        <constraint firstItem="ju2-Lr-KRT" firstAttribute="top" secondItem="VvB-z7-ob9" secondAttribute="top" constant="24" id="bLN-b7-evp"/>
+                        <constraint firstAttribute="top" secondItem="Y8c-VZ-CAT" secondAttribute="top" constant="10" id="dZE-kw-tdd"/>
+                        <constraint firstItem="cq7-4x-TXC" firstAttribute="centerX" secondItem="VvB-z7-ob9" secondAttribute="centerX" id="eSZ-3a-IrK"/>
+                        <constraint firstAttribute="width" constant="320" id="lJ6-cv-QMD"/>
+                        <constraint firstItem="72T-DR-INr" firstAttribute="top" secondItem="gln-OW-X2H" secondAttribute="bottom" constant="24" id="lPh-w5-J3F"/>
+                        <constraint firstItem="cq7-4x-TXC" firstAttribute="top" secondItem="ju2-Lr-KRT" secondAttribute="bottom" constant="15" id="pwe-3r-oZy"/>
+                        <constraint firstAttribute="bottom" secondItem="W8j-B6-F7e" secondAttribute="bottom" constant="20" id="uAt-N8-IY5"/>
+                        <constraint firstItem="W8j-B6-F7e" firstAttribute="centerY" secondItem="72T-DR-INr" secondAttribute="centerY" id="zJs-cG-DGJ"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.80000000000000004" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="VvB-z7-ob9" firstAttribute="centerX" secondItem="vUN-kp-3ea" secondAttribute="centerX" id="fnv-cI-9lw"/>
+                <constraint firstItem="VvB-z7-ob9" firstAttribute="centerY" secondItem="vUN-kp-3ea" secondAttribute="centerY" id="mKX-Wt-ZKd"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="backUV" destination="VvB-z7-ob9" id="DyU-t4-eSD"/>
+                <outlet property="cancelUB" destination="W8j-B6-F7e" id="kW0-yb-BQY"/>
+                <outlet property="closeUB" destination="Y8c-VZ-CAT" id="EGN-3E-EJP"/>
+                <outlet property="shopUB" destination="72T-DR-INr" id="adO-gU-X6T"/>
+            </connections>
+            <point key="canvasLocation" x="24.5" y="51.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ico_cancel" width="16" height="16"/>
+    </resources>
+</document>
